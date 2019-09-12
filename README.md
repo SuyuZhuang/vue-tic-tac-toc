@@ -1,5 +1,8 @@
 # vue-tic-tac-toc
 
+预览链接
+https://suyuzhuang.github.io/vue-tic-tac-toc/dist/
+
 ## Project setup
 ```
 yarn install
